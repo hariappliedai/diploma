@@ -1,4 +1,4 @@
 # Content
 ---
 
-- [Histograms]("./01 Histograms.pdf")
+- [Histogram](./01%20Histograms.pdf)
